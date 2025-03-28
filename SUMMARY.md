@@ -32,4 +32,4 @@
   * [📄 Estudo Dirigido 01](05-trabalhos/estudo-dirigido-01.md)
   * [📄 Estudo Dirigido 02](05-trabalhos/estudo-dirigido-02.md)
 * [Materiais de Apoio](06-materiais-de-apoio/README.md)
-  * [🔗 Links importantes](06-materiais-de-apoio/links-importantes.md)
+  * [🔗 Links importantes](06-materiais-de-apoio/leitura-complementar.md)
