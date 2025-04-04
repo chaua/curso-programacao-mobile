@@ -22,6 +22,7 @@
     * [Estruturas condicionais](02-notas-de-aula/aula-08-programacao-dart-conceitos-basicos/estruturas-condicionais.md)
     * [Estruturas de repetição](02-notas-de-aula/aula-08-programacao-dart-conceitos-basicos/estruturas-de-repeticao.md)
     * [Funções](02-notas-de-aula/aula-08-programacao-dart-conceitos-basicos/funcoes.md)
+  * [💻 Oficina 1](02-notas-de-aula/oficina-1.md)
 * [Códigos-fontes](03-codigos-fontes/README.md)
   * [💾 Exemplo](03-codigos-fontes/exemplo.md)
 * [Provas](04-provas/README.md)
